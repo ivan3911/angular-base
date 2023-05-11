@@ -1,6 +1,19 @@
 # Bases
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+El proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+
+Se trata de un proyecto de Angular donde se muestra un listado de personajes animados con la posibilidad de agregar mas.
+
+Se hace uso de las siguientes caracteristicas en el proyecto.
+
+	-Uso de módulos
+	-FormsModule
+	-ngModel
+	-@inputs
+	-@outputs
+	-Servicios
+
+Finalmente el proyecto se puede ver en la plataforma en [GitHub Pages](https://ivan3911.github.io/angular-base/) y [Netlify](https://astonishing-genie-7384be.netlify.app).
 
 ## Development server
 
