@@ -15,6 +15,8 @@ Se hace uso de las siguientes caracteristicas en el proyecto.
 
 Finalmente el proyecto se puede ver en la plataforma en [GitHub Pages](https://ivan3911.github.io/angular-base/) y [Netlify](https://astonishing-genie-7384be.netlify.app).
 
+![pagina personajes](https://github.com/ivan3911/angular-base/blob/main/assets/Personajes.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
